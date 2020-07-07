@@ -1,4 +1,4 @@
-## Simple LAMP setup using Apache
+## Simple LAMP setup using Vagrant
 
 The provisioner config used is shell (bootstrap.sh)
 
